@@ -1,6 +1,5 @@
 # Name: Hussein Alsaidi
-# Date: 01/26/2023
-# Description: This is part 6 of the Input/Output/Process homework.
+
 quiz1 = float(input('Enter your score for Quiz #1: \t\t\t'))
 quiz2 = float(input('Enter your score for Quiz #2: \t\t\t'))
 quiz3 = float(input('Enter your score for Quiz #3: \t\t\t'))
