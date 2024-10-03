@@ -1,7 +1,4 @@
 # Name: Hussein Alsaidi
-# Date: 01/26/2023
-# Description: This is part 5 of the Input/Output/Process homework.
-# Country Population
 # Input
 country1 = input('Enter the country name: ')
 # Process
