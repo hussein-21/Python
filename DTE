@@ -1,6 +1,4 @@
 # Name: Hussein Alsaidi
-# Date: 03/17/2023
-# Description: This is part 3 of Exam #2.
 
 def dtemenu():
     print("DTE Energy Menu")
