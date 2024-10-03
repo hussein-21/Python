@@ -1,8 +1,4 @@
 # Name: Hussein Alsaidi
-# Date: 02/27/2023
-# Description: This is part 2 of the Input/Output/Process homework.
-
-
 
 #Colors
 BLUE              = "\033[1;34m"
