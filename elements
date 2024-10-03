@@ -1,6 +1,5 @@
 # Name: Hussein Alsaidi
-# Date: 03/17/2023
-# Description: This is part 1 of Exam #2.
+
 def elements(elementabb):
     if elementabb == "H" or elementabb == "h":
         print("This element number and name is: 1 – Hydrogen.")
