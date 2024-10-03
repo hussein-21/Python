@@ -1,7 +1,4 @@
 # Name: Hussein Alsaidi
-# Date: 02/27/2023
-# Description: This is part 4 of the  Decisions and Boolean Logic.
-
 
 def passcheck(password):
 	flag=0
