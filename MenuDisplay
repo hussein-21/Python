@@ -1,6 +1,4 @@
 # Name: Hussein Alsaidi
-# Date: 02/13/2023
-# Description: This is part 2 of Exam #1.
 
 def menu():
     print('Main Customer Menu')
