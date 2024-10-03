@@ -1,6 +1,5 @@
 ﻿# Name: Hussein Alsaidi
-# Date: 4/30/23
-# Description: Final Exam: McDonald's Program
+
 
 ## User defined Functions
 def displayInventory(inventory):
