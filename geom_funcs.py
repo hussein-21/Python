@@ -1,6 +1,5 @@
 # Name: Hussein Alsaidi
-# Date: 02/08/2023
-# Description: This is part 3 of Homework #2.
+
 
 def getsidelength1():
     side1= float(input("Please enter length of side #1:"))
