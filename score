@@ -1,6 +1,5 @@
 # Name: Hussein Alsaidi
-# Date: 03/17/2023
-# Description: This is part 2 of Exam #2.
+
 
 def ficoscore(score):
     if score >= 300 and  score <= 579:
