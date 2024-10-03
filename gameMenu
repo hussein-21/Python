@@ -1,6 +1,4 @@
 # Name: Hussein Alsaidi
-# Date: 02/27/2023
-# Description: This is part 6 of the  Decisions and Boolean Logic.
 
 def gameMenu():
     input("\nThis is Game Menu stub")
