@@ -1,6 +1,4 @@
 # Name: Hussein Alsaidi
-# Date: 02/08/2023
-# Description: This is part 1 of Homework #2.
 
 def DollarChange(cents):
     quarters= cents // 25
