@@ -1,6 +1,4 @@
 # Name: Hussein Alsaidi
-# Date: 02/08/2023
-# Description: This is part 6 of Homework #2.
 
 letter = str(input('Enter a letter: '))
 sentence = str(input('Enter a sentence: '))
